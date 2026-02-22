@@ -1,2 +1,1 @@
-# VeriDuo
-CVPR'26
+# To Update
