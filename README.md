@@ -1,0 +1,2 @@
+# VeriDuo
+CVPR'26
